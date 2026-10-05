@@ -4,6 +4,8 @@ Simulador de decisiones para elegir **portainjerto y variedad en 18 cultivos fru
 
 **Usar la app:** https://fborrasumh.github.io/frutalia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23161695.svg)](https://doi.org/10.5281/zenodo.23161695)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Origen de la idea
@@ -56,7 +58,7 @@ NODE_MODULES=/ruta/node_modules python3 tests/smoke_test.py  # navegador: idioma
 
 ## Cómo citar
 
-Hernández García, F., y Borrás Rocher, F. (2026). *FrutalIA* (v1.0.0) [Software]. (DOI en trámite)
+Hernández García, F., y Borrás Rocher, F. (2026). *FrutalIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23161695](https://doi.org/10.5281/zenodo.23161695)
 
 ## Licencia
 
